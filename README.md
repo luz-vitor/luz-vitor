@@ -1,10 +1,9 @@
 
 ### Hello, my name is Vitor Luz 👋 
 
-I have a degree and specialization in Civil Engineering and I'm currently making the transition to Computer Science and it's been really cool! 😎
-
-My main focus at the moment is scientific research in Machine Learning, using Python and PyTorch.
-I am dedicating my time to improving my skills in this area. Therefore, I am adding some exercises related to the topic in this repository.
+I have a degree and specialization in Civil Engineering and I'm currently making the transition to Computer Science and it's been really cool! 😎 My main focus at the moment is scientific research in Machine Learning, using Python and PyTorch.
+I am dedicating my time to improving my skills in this area. 
+Therefore, I am adding some exercises related to the topic in this repository.
 
 Please feel free to contact me! ✌️
 
